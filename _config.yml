@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Wenyu Yang"
 description              : &description "personal description"
 url                      : https://wenyuyangit.github.io/wenyuyang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "wenyuyangit/wenyuyang.github.io" 
 teaser                   : "/images/500x300.png" # filename of teaser fallback teaser image placed in /images/500x300.png
 breadcrumbs              : false # true, false (default)
@@ -215,7 +215,7 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _publications
