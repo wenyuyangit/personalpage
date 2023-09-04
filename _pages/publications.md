@@ -7,18 +7,12 @@ author_profile: true
 
 Publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
 
 Journals
 ------
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 Conference
 ------
