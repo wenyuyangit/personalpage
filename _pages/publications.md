@@ -34,7 +34,7 @@ Activities
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-Reviwer
+Reviewer
 ======
 * Summer 2015: Research Assistant
   * Github University
