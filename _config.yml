@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wenyu Yang / Site Title"
+title                    : "Wenyu Yang"
 title_separator          : "-"
 name                     : &name "Wenyu Yang"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : ITWenyuyang
 facebook:
   username               :
   app_id                 :
